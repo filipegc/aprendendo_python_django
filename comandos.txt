@@ -8,4 +8,5 @@ Comandos para instalar todos os pacotes
 
 pip install --upgrade nomedo recurso
 
+Criação de app >>>> python manage.py startapp paginas
 
