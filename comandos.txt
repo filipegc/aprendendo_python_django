@@ -7,3 +7,5 @@ Comandos para instalar todos os pacotes
         pip install -r requirements.txt
 
 pip install --upgrade nomedo recurso
+
+
