@@ -1,0 +1,17 @@
+altgraph==0.17.2
+certifi==2022.6.15
+distlib==0.3.5
+et-xmlfile==1.1.0
+filelock==3.7.1
+future==0.18.2
+openpyxl==3.0.9
+pefile==2021.9.3
+pipenv==2022.7.24
+platformdirs==2.5.2
+pyinstaller==4.10
+pyinstaller-hooks-contrib==2022.2
+pywin32-ctypes==0.2.0
+six==1.16.0
+virtualenv==20.16.3
+virtualenv-clone==0.5.7
+virtualenvwrapper-win==1.2.7

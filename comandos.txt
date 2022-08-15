@@ -1,0 +1,9 @@
+Comando para gerar os arquivos com a lista de pacotes
+
+        pip freeze >requirements.txt
+
+Comandos para instalar todos os pacotes
+
+        pip install -r requirements.txt
+
+pip install --upgrade nomedo recurso
